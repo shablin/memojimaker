@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="heads.png?raw=true" width="500" alt="Memoji Creator">
+  <img src="heads.png?raw=true" width="400" alt="Memoji Creator">
 </p>
 <br>
 <p align="center">
